@@ -4,7 +4,7 @@ Object detection using Yolo v5
 Step 1: Clone this repository <br>
 Step 2: run 
 ```
-pip3 install requirements.txt
+pip3 install -r requirements.txt
 ```
 Step 3: run
 ```
